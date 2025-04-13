@@ -1,30 +1,72 @@
-# 2010 Honda CRF450R
+# 2010 Honda CRF450R 
+---
 
 ## Identification
-- Model Year: 2010
-- Platform: Third-gen (2009–2012)
-- Updates: Revised ECU, new decompression, suspension tweaks
+- **Brand**: Honda
+- **Model**: CRF450R
+- **Year**: 2010
+- **Generation/Platform Notes**: Third-generation platform (2009–2012) featuring fuel injection and a redesigned chassis. The 2010 model introduced revised ECU mapping for improved throttle response, a new auto decompression system for easier starting, and suspension updates for enhanced handling.
 
-## Stock Sprocket Fitment
-- Front: 13T (spline)
-- Rear: 48T
-- Chain: 520 / 116 links
+---
 
-## Aftermarket Gearing
-- Common setups: 13/49, 13/50, 14/52
-- Preferred by riders for stronger 3rd gear acceleration
+## Sprocket Fitment (Stock)
+- **Front Sprocket**: 13T, 520 pitch  
+- **Rear Sprocket**: 48T, 520 pitch  
+- **Chain Pitch**: 520  
+- **Chain Length (Stock)**: 116 links  
+- **Front Sprocket Mount Style**: Spline with locking washer  
+- **Rear Bolt Pattern / Mount Type**: 6-bolt pattern, standard Honda fitment
 
-## Hubs & Spacers
-- Front Axle: 20mm
-- Rear Axle: 25mm
-- Hub Group: Honda 2009–2012
-- Spacer Kit Group: Honda standard fitment
+---
 
-## Wheels
-- Front: 21” x 1.60”
-- Rear: 19” x 2.15”
-- Spokes: Front 36 / Rear 32
+## Aftermarket Popular Setups
+- **Popular Front Sprockets (Racer Spec)**: 13T (standard), 14T (less common due to clearance issues)  
+- **Popular Rear Sprockets (Racer Spec)**: 49T, 50T, 52T  
+- **Popular Gearing Combos**: 13/49, 13/50, 14/52  
+- **Tuning Notes / Reason for Change**: Adjusting to a 13/49 or 14/52 setup enhances third-gear roll-on power and improves cornering performance.
+
+---
+
+## Hub, Wheel, Spacer Fitment
+- **Front Hub Compatibility**: Compatible with Honda CRF450R models from 2002 onward, with appropriate disc  
+- **Rear Hub Compatibility**: Compatible with Honda CRF450R models from 2009 onward  
+- **Front Axle Diameter**: 20mm  
+- **Rear Axle Diameter**: 25mm  
+- **Spacer Kit Part Number**: Refer to specific aftermarket supplier catalogs  
+- **Spoke/Nipple Compatibility**: Front: 36 spokes / Rear: 32 spokes  
+- **Wheel Size (Stock)**: Front: 21” / Rear: 19”  
+- **Rim Width (Stock)**: Front: 1.60” / Rear: 2.15”
+
+---
+
+## Chain Guide / Wear Parts
+- **Chain Guide Fitment**: Standard Honda fitment; aftermarket options available  
+- **Chain Slider Notes**: Compatible with standard Honda chain sliders  
+- **Chain Roller Notes**: Compatible with standard Honda chain rollers
+
+---
+
+## Suspension / Chassis Changes
+- **Swingarm Type**: Aluminum with updated mounting points  
+- **Frame Changes This Year?**: No significant changes; retains the revised frame introduced in 2009
+
+---
+
+## Optional (If Stocked)
+- **Brake Rotor Fitment**: Front: 240mm disc / Rear: 240mm disc  
+- **Caliper / Carrier Notes**: Front: Dual-piston caliper / Rear: Single-piston caliper
+
+---
+
+## Advanced Classification
+- **Hub Fitment Group**: Honda 2009–2012  
+- **Sprocket Bolt Circle Group**: Honda standard 6-bolt pattern  
+- **Spacer Kit Group**: Honda 2009–2012  
+- **Tagged Keywords (Internal)**: CRF450R, 2010, Honda, motocross, fitment  
+- **Talon SKU Reference**: Refer to Talon Engineering catalog for specific part numbers
+
+---
 
 ## Notes
-- 14T front sprocket may have clearance issues
-- Use Talon SKU cross-references for premium hub fitments
+- **Fitment Exceptions or Warnings**: Installing a 14T front sprocket may cause clearance issues with the slave cylinder  
+- **OEM vs Aftermarket Performance N
